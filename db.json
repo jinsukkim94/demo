@@ -1,6 +1,10 @@
 {
-  "firstName": "Jennifer",
-  "lastName": "Lopez",
-  "sex": "Female",
-  "Email": "sample@gamil.com"
+  "data": [
+    { 
+      "firstName": "Jennifer",
+      "lastName": "Lopez",
+      "sex": "Female",
+      "Email": "sample@gamil.com"
+    }
+   ]
 }
